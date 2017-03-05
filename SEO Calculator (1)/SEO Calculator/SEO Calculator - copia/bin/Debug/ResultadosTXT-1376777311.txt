@@ -1,0 +1,15 @@
+Resultados de Google:
+=====================
+
+La búsqueda: " a ", ha obtenido aproximádamente 25.270.000.000 resultados. 
+
+La búsqueda: " e ", ha obtenido aproximádamente 17.510.000.000 resultados. 
+
+La búsqueda: " d ", ha obtenido aproximádamente 15.190.000.000 resultados. 
+
+La búsqueda: " c ", ha obtenido aproximádamente 13.680.000.000 resultados. 
+
+La búsqueda: " b ", ha obtenido aproximádamente 11.500.000.000 resultados. 
+
+Máximo: 25 B (25.270.000.000)
+Mínimo: 11 B (11.500.000.000)

@@ -1,0 +1,12 @@
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\bin\Release\SEO Calculator.exe.config
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\bin\Release\SEO Calculator.exe
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\bin\Release\SEO Calculator.pdb
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\bin\Release\SEO Calculator.xml
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\bin\Release\CButtonLib.dll
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\bin\Release\gLabel.dll
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\obj\Release\SEO_Calculator.Resources.resources
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\obj\Release\SEO Calculator.vbproj.GenerateResource.Cache
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\obj\Release\SEO Calculator.exe
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\obj\Release\SEO Calculator.xml
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\obj\Release\SEO Calculator.pdb
+C:\Visual Studio Projects\SEO Calculator\SEO Calculator\obj\Release\SEO_Calculator.Main.resources

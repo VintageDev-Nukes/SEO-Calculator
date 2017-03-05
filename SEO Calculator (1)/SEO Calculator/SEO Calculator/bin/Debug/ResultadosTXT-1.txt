@@ -1,0 +1,19 @@
+.:: SEO Calculator By Elektro H@cker & IkillNukes ::.
+    =============================================    
+
+GOOGLE Results:
+
+The search "a" has obtained 25.270.000.000 results.
+
+The search "e" has obtained 16.100.000.000 results.
+
+The search "d" has obtained 13.860.000.000 results.
+
+The search "c" has obtained 13.120.000.000 results.
+
+The search "b" has obtained 10.510.000.000 results.
+
+Maximum: 25.2 Billions (25.270.000.000) "a"
+Minimum: 10.5 Billions (10.510.000.000) "b"
+
+
